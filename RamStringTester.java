@@ -1,12 +1,4 @@
-/**
- * 
- * Benjamin Leach
- * 2/20/2016
- * CMSC 256-001 
- *
- * This program is intended to test the functionality of the RamString class. 
- *
- */
+
 public class RamStringTester {
 
     public static void main(String[] args) {
