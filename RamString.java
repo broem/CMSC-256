@@ -1,10 +1,3 @@
-/**
- * 
- * Benjamin Leach
- * 2/20/2016
- * CMSC 256-001 
- *
- */
 public class RamString implements WackyStringInterface{
     private String currentString;
     public RamString()
